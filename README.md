@@ -1,8 +1,6 @@
-# hotel-revenue-dynamic-pricing
+# 🏨 Resort Hotel Revenue Analysis
+
 Resort hotel revenue analysis &amp; dynamic pricing engine designed to assist Revenue Managers in rate setting, OTA channel optimization, and tracking Occupancy, ADR, and RevPAR.
-
-# 🏨 Resort Hotel Revenue Turnaround: Mengubah Harga Statis Menjadi Dynamic Pricing Otomatis
-
 > 📊 **Dashboard Interaktif:** [Buka di Tableau Public](https://public.tableau.com/) *(Ganti dengan tautan Tableau Public Anda)*
 
 ## 📌 Ringkasan Eksekutif (Executive Summary)
