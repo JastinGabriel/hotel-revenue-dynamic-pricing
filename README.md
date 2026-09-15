@@ -3,6 +3,8 @@
 Resort hotel revenue analysis &amp; dynamic pricing engine designed to assist Revenue Managers in rate setting, OTA channel optimization, and tracking Occupancy, ADR, and RevPAR.
 > 📊 **Dashboard Interaktif:** [Buka di Tableau Public](https://public.tableau.com/) *(Ganti dengan tautan Tableau Public Anda)*
 
+---
+
 ## 📌 Ringkasan Eksekutif (Executive Summary)
 
 Banyak pihak mengira **okupansi tinggi (>85%)** berarti hotel berkinerja sehat. Faktanya, Resort Hotel berkapasitas 200 kamar ini justru mengalami **okupansi semu (*false fullness*)**:
@@ -12,10 +14,14 @@ Banyak pihak mengira **okupansi tinggi (>85%)** berarti hotel berkinerja sehat. 
 
 Proyek ini menghadirkan sistem pendukung keputusan (*decision-support system*) berbasis Python dan Tableau untuk mendeteksi lonjakan pesanan mendadak dan menyesuaikan harga secara bertingkat (naik hingga +40%) sebelum kamar habis terjual murah
 
+---
+
 ## 🎯 Manfaat Proyek Bagi Revenue Manager & Manajemen
 
 * **Penetapan Tarif Harian Otomatis:** Memberi panduan penyesuaian tarif berbasis tingkat Occupancy Rate.
 * **Peringatan Dini Lonjakan Permintaan (*Demand Spike Alert*):** Mendeteksi tanggal-tanggal dengan laju pesanan tak wajar.
+
+---
 
 ## 📊 Analisis Perilaku Jendela Pemesanan (Lead Time Behavior)
 
@@ -23,6 +29,8 @@ Proyek ini menghadirkan sistem pendukung keputusan (*decision-support system*) b
 
 Grafik distribusi pemesanan di atas membongkar kekeliruan umum dalam operasional hotel: **kebiasaan membanting harga di detik-detik terakhir (*last-minute discounting*) demi mengejar kamar terisi penuh.**
 Menurunkan harga di menit-menit akhir terbukti merugikan hotel. Sebaliknya, hotel harusnya memaksimalkan RevPAR Menjelang Hari-H. Karena permintaan last-minute tetap tinggi (28.4%), strategi ini secara langsung mendongkrak **ADR** dan menghasilkan **RevPAR** maksimal tanpa mengorbankan okupansi.
+
+---
 
 ## 🖥️ Tampilan Dashboard Tableau
 
