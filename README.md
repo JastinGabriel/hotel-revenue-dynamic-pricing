@@ -47,3 +47,10 @@ Menurunkan harga di menit-menit akhir terbukti merugikan hotel. Sebaliknya, hote
 | $55\% - 75\%$[cite: 1] | Harga Normal (1.00x)[cite: 1] |
 | $75\% - 90\%$[cite: 1] | Naik 20% (1.20x)[cite: 1] |
 | $> 90\%$[cite: 1] | Naik 40% (1.40x)[cite: 1] |
+
+---
+
+## 💰 Dampak Finansial (Revenue Uplift)
+
+Penerapan strategi Dynamic Pricing pada data operasional hotel menghasilkan peningkatan performa bisnis yang terukur:
+* **Net Revenue Uplift (+22.59%)**: Jika menerapkan strategi dynamic pricing, Total omzet dapat meningkat sebesar €2.620.583,46 (dari €11,60 juta menjadi €14,22 juta) tanpa penambahan unit kamar maupun biaya operasional fisik.
