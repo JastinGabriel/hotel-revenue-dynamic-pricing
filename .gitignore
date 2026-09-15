@@ -1,0 +1,12 @@
+# Abaikan data mentah berukuran besar
+data/raw/
+*.csv_backup
+
+# Abaikan cache otomatis Jupyter Notebook & Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Abaikan file sistem operasi
+.DS_Store
+Thumbs.db
