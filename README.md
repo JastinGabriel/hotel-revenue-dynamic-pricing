@@ -20,7 +20,7 @@ Proyek ini menghadirkan sistem pendukung keputusan (*decision-support system*) b
 
 ## 🖥️ Tampilan Dashboard Tableau
 
-![Executive Dashboard](assets/dashboard_overview.png)
+![Executive Dashboard](assets/dashboard_preview.png)
 
 1. **Kartu Indikator Utama (KPI Cards):** Menyajikan performa bulanan untuk *Occupancy*, *Booking Pace* harian, *ADR*, dan *RevPAR*.
 2. **Kontribusi Saluran Penjualan:** Perbandingan porsi kamar dan omzet antara *TA/TO*, *Direct*, dan *Corporate*[cite: 1].
