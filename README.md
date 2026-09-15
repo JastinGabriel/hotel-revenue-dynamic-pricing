@@ -17,3 +17,12 @@ Proyek ini menghadirkan sistem pendukung keputusan (*decision-support system*) b
 * **Penetapan Tarif Harian Otomatis:** Memberi panduan penyesuaian tarif berbasis tingkat Occupancy Rate.
 * **Peringatan Dini Lonjakan Permintaan (*Demand Spike Alert*):** Mendeteksi tanggal-tanggal dengan laju pesanan tak wajar.
 
+
+## 🖥️ Tampilan Dashboard Tableau
+
+![Executive Dashboard](assets/dashboard_overview.png)
+
+1. **Kartu Indikator Utama (KPI Cards):** Menyajikan performa bulanan untuk *Occupancy*, *Booking Pace* harian, *ADR*, dan *RevPAR*.
+2. **Kontribusi Saluran Penjualan:** Perbandingan porsi kamar dan omzet antara *TA/TO*, *Direct*, dan *Corporate*[cite: 1].
+3. **Kalender Peringatan Lonjakan (*Demand Spike Alert*):** Kalender berbasis warna yang baru mulai menyala saat pesanan melonjak di atas **16%**, dan berwarna merah pekat saat lonjakan menyentuh zona kritis **$\ge 25\%$**.
+4. **Tabel Tindakan Harian (*Daily Pricing Grid*):** Panduan ringkas bagi resepsionis dan tim reservasi mengenai status okupansi serta pengali tarif yang harus dipasang hari ini[cite: 1].
