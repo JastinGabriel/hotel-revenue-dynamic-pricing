@@ -33,4 +33,9 @@ Menurunkan harga di menit-menit akhir terbukti merugikan hotel. Sebaliknya, hote
 3. **Demand Spike Alert:** Kalender pemantau yang memberi sinyal visual ketika pada tanggal tertentu sedang terjadi lonjakan permintaan kamar dalam jumlah besar secara mendadak.
 4. **Daily Pricing Action:** Tabel operasional yang membantu menentukan harga kamar yang tepat secara harian berdasarkan tingkat okupansi hotel.
 
-
+| Kategori Okupansi | Rekomendasi Tarif |
+| :---: | :---: |
+| $< 55\%$[cite: 1] | Diskon 15% (0.85x)[cite: 1] |
+| $55\% - 75\%$[cite: 1] | Harga Normal (1.00x)[cite: 1] |
+| $75\% - 90\%$[cite: 1] | Naik 20% (1.20x)[cite: 1] |
+| $> 90\%$[cite: 1] | Naik 40% (1.40x)[cite: 1] |
