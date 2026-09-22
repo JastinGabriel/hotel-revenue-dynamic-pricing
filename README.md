@@ -1,7 +1,7 @@
 # 🏨 Resort Hotel Revenue Analysis
 
 Resort hotel revenue analysis &amp; dynamic pricing engine designed to assist Revenue Managers in rate setting, OTA channel optimization, and tracking Occupancy, ADR, and RevPAR.
-> 📊 **Dashboard Interaktif:** Klik Disini ! [Revenue Management Dashboard]((https://public.tableau.com/views/RevenueManagementDashboard_17900607721790/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+> 📊 **Dashboard Interaktif:** Klik Disini ! [Revenue Management Dashboard](https://public.tableau.com/views/RevenueManagementDashboard_17900607721790/Dashboard2?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
